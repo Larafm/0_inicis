@@ -1,6 +1,10 @@
 # 0_inicis
 Crea un repositori
 
+## Activitats
+* .[1_LlocWeb] (https://larafm.github.io/1llocweb/)
+* .[2_CMYK] (http
+
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
 * [Llenguatge etiquetes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
