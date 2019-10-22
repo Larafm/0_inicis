@@ -2,9 +2,9 @@
 Crea un repositori
 
 ## Activitats
-* .[1_LlocWeb] (https://larafm.github.io/1llocweb/)
-* .[2_Cmyk] (https://larafm.github.io/2_cmyk/)
-* .[3_Broom] (https://larafm.github.io/3_broom/)
+* .[1_LlocWeb](https://larafm.github.io/1llocweb/)
+* .[2_Cmyk](https://larafm.github.io/2_cmyk/)
+* .[3_Broom](https://larafm.github.io/3_broom/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
