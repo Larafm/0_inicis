@@ -3,7 +3,7 @@ Crea un repositori
 
 ## Activitats
 * .[1_LlocWeb] (https://larafm.github.io/1llocweb/)
-* .[3_Broom] (https://github.com/Larafm/3_broom/)
+* .[3_Broom] (https://larafm.github.io/3_broom/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
