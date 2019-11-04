@@ -7,7 +7,8 @@ Crea un repositori
 * [3_Broom](https://larafm.github.io/3_broom/)
 
 ## Pàgines classe
-* [Pàgina classe 2GP](https://arquesm.github.io/2GP/) 
+* [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
+* [Pàgina Magda](https://github.com/arquesm)
 * [Llenguatge etiquetes github](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
 ## Manuals
