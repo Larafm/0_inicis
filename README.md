@@ -5,6 +5,7 @@ Crea un repositori
 * [1_LlocWeb](https://larafm.github.io/1llocweb/)
 * [2_Cmyk](https://larafm.github.io/2_cmyk/)
 * [3_Broom](https://larafm.github.io/3_broom/)
+* [5_Moduls](https://github.com/Larafm/5_moduls.git)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
