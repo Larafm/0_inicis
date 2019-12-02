@@ -5,9 +5,8 @@ Crea un repositori
 * [1_LlocWeb](https://larafm.github.io/1llocweb/)
 * [2_Cmyk](https://larafm.github.io/2_cmyk/)
 * [3_Broom](https://larafm.github.io/3_broom/)
-* [5_Moduls](https://larafm.github.io/5_moduls/)
-* [6_Tarjetes](https://larafm.github.io/6_tarjetes/)
-* [7_Landingpage](https://larafm.github.io/7_landingpage/)
+* [5_Tarjetes](https://larafm.github.io/6_tarjetes/)
+* [6_Landingpage](https://larafm.github.io/7_landingpage/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
