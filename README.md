@@ -8,6 +8,7 @@ Crea un repositori
 * [4_Maquetación](https://larafm.github.io/4_maquetacion/)
 * [5_Tarjetes](https://larafm.github.io/6_tarjetes/)
 * [6_Landingpage](https://larafm.github.io/7_landingpage/)
+* [7_Grid_Moma](https://larafm.github.io/7_grid_moma/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
