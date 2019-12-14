@@ -10,6 +10,8 @@ Crea un repositori
 * [6_Landingpage](https://larafm.github.io/7_landingpage/)
 * [6_CorrecciónLandingpage](https://larafm.github.io/6_correccion/)
 * [7_Grid_Moma](https://larafm.github.io/7_grid_moma/)
+* [8_Gridarea_Mimminshop](https://larafm.github.io/8_gridarea_mimminshop/)
+
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
