@@ -13,6 +13,7 @@ Crea un repositori
 * [8_Gridarea_Mimminshop](https://larafm.github.io/8_gridarea_mimminshop/)
 * [9_Transform](https://larafm.github.io/9_transform/)
 
+* [11_Examen](https://larafm.github.io/11_examen/)
 
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
