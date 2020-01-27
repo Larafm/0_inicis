@@ -15,6 +15,8 @@ Crea un repositori
 
 * [11_Examen](https://larafm.github.io/11_examen/)
 
+* [14_DocumentJS]( https://larafm.github.io/14_document_js/)
+
 ## Pàgines classe
 * [Pàgina classe 2GP](https://arquesm.github.io/2GP/)
 * [Pàgina Magda](https://github.com/arquesm)
